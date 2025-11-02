@@ -1,0 +1,8 @@
+{
+    "name": "Nhúng Video Youtube",
+    "author": "Buddhanussati",
+    "description": "Nhúng video YouTube trực tiếp vào nội dung bài viết.",
+    "version": 0.11,
+    "entrypoint": "YouTube",
+    "type": "system"
+}
